@@ -1,6 +1,6 @@
 ---
 name: mcp-oauth
-description: "Authenticate with any OAuth 2.1 MCP server. Handles discovery, PKCE, dynamic client registration, local callback server, token exchange, and authenticated requests. Use when connecting to OAuth-protected MCP servers (e.g. mcp.vercel.com), testing MCP tools, or debugging auth flows. Accepts an MCP server URL as argument."
+description: "Authenticate with any OAuth 2.1 MCP server. Handles discovery, PKCE, dynamic client registration, local callback server, token exchange, and authenticated requests. Use when connecting to OAuth-protected MCP servers, testing MCP tools, or debugging auth flows. Accepts an MCP server URL as argument."
 ---
 
 # MCP OAuth Authentication Flow
